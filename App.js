@@ -12,6 +12,7 @@ import { Platform, StyleSheet, Text, View } from "react-native";
 import Phone from "./assets/phone.svg";
 import Lightbulb from "./assets/lightbulb.svg";
 import Checkmark from "./assets/checkmark.svg";
+import ThLargeActive from "./assets/th-large-active.svg";
 
 const instructions = Platform.select({
   ios: "Press Cmd+R to reload,\n" + "Cmd+D or shake for dev menu",
@@ -25,9 +26,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Phone width={30} height={52} />
-        <Lightbulb width={38} height={56} />
-        <Checkmark width={14} height={14} />
+        <ThLargeActive width={36} height={27} />
         <Text style={styles.welcome}>Welcome to React Native!</Text>
         <Text style={styles.instructions}>To get started, edit App.js</Text>
         <Text style={styles.instructions}>{instructions}</Text>

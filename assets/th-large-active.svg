@@ -1,0 +1,16 @@
+
+<svg width="18px" height="18px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="-6.16521421%" y1="14.7934649%" x2="100%" y2="91.4270586%" id="linearGradient-1">
+            <stop stop-color="#FAA461" offset="0%"></stop>
+            <stop stop-color="#F75C1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="01-–-App-TabBar-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FontAwesome5ProSolid, Font Awesome 5 Pro" font-size="18" font-weight="700" line-spacing="24">
+        <g id="App-TabBar-MVP-1" transform="translate(-75.000000, -608.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(0.000000, 592.000000)">
+                <path d="M296 32h192c13.255 0 24 10.745 24 24v160c0 13.255-10.745 24-24 24H296c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24zm-80 0H24C10.745 32 0 42.745 0 56v160c0 13.255 10.745 24 24 24h192c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24zM0 296v160c0 13.255 10.745 24 24 24h192c13.255 0 24-10.745 24-24V296c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm296 184h192c13.255 0 24-10.745 24-24V296c0-13.255-10.745-24-24-24H296c-13.255 0-24 10.745-24 24v160c0 13.255 10.745 24 24 24z"/>
+            </g>
+        </g>
+    </g>
+</svg>
